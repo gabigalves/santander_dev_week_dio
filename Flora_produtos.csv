@@ -1,0 +1,23 @@
+id_produto,nome_produto,preco_produto,descricao,id_fornecedor
+1,Rosa Vermelha ,R$ 10,Rosa vermelha de alta qualidade ,1233
+2,Rosa Branca ,R$ 12,Rosa branca elegante ,2331
+3,Lírio ,R$ 15,Lírio branco fresco ,3312
+4,Orquídea ,R$ 20,Orquídea roxa vibrante ,1444
+5,Girassol ,R$ 8,Girassol grande e brilhante ,5123
+6,Tulipa ,R$ 11,Tulipa vermelha encantadora ,9012
+7,Margarida ,R$ 7,Margarida branca delicada ,7712
+8,Crisântemo ,R$ 9,Crisântemo amarelo atraente ,1314
+9,Dália ,R$ 14,Dália rosa deslumbrante ,1233
+10,Azaleia ,R$ 16,Azaleia vermelha vibrante ,2331
+11,Camélia ,R$ 18,Camélia rosa suave ,3312
+12,Hortênsia ,R$ 13,Hortênsia azul exuberante ,1444
+13,Narciso ,R$ 10,Narciso amarelo brilhante ,5123
+14,Peônia ,R$ 19,Peônia rosa romântica ,9012
+15,Zínia ,R$ 8,Zínia laranja vibrante ,7712
+16,Gerânio ,R$ 12,Gerânio vermelho robusto ,1314
+17,Begônia ,R$ 11,Begônia rosa delicada ,1233
+18,Petúnia ,R$ 9,Petúnia roxa encantadora ,2331
+19,Impatiens ,R$ 7,Impatiens rosa suave ,3312
+20,Verbena ,R$ 10,Verbena roxa vibrante ,1444
+21,Violeta ,R$ 6,Violeta azul delicada ,5123
+22,Miosótis ,R$ 8,Miosótis azul claro encantador ,9012
